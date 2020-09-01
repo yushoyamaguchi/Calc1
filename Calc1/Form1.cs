@@ -17,7 +17,7 @@ namespace Calc1
             InitializeComponent();
         }
 
-
+        //kkk
 
         private void button1_Click(object sender, EventArgs e)
         {
